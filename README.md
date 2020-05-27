@@ -1,9 +1,8 @@
 # Automatic-School-Bell
 
--Use English or Bahasa on your computer
-<br/> """"Cause this app wont work in another language""""" <br/>
-
-
+this application will be able to use in 2 language
+<br>1. Bahasa
+<br>2. English
 <br/>
 
 
