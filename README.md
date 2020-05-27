@@ -6,6 +6,5 @@
 
 <br/>
 
-(Gunakan dengan bijak , HEHEHE)
 
 
